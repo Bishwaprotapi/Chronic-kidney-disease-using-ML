@@ -1,0 +1,11 @@
+age,blood_pressure,specific_gravity,albumin,sugar,blood_glucose_random,blood_urea,serum_creatinine,hemoglobin,classification
+48,80,1.02,1,0,121,36,1.2,15.0,ckd
+63,70,1.01,4,0,123,18,0.9,11.0,notckd
+68,80,1.01,2,3,117,53,1.8,9.5,ckd
+24,70,1.015,3,0,106,36,1.0,14.0,notckd
+52,80,1.02,0,0,70,18,0.6,15.5,notckd
+46,90,1.025,0,0,90,18,0.7,16.0,notckd
+65,70,1.01,4,0,228,41,2.1,9.0,ckd
+30,80,1.015,2,2,140,53,1.1,14.5,notckd
+76,80,1.01,3,0,114,19,0.8,13.0,notckd
+51,90,1.025,0,0,131,36,1.2,15.0,notckd
